@@ -1,5 +1,4 @@
-For execuƟng the project:
-For ExecuƟng this project,
+For Executing this project,
  First, you have to access channel on the Thing Speak cloud server by your mail id and
 password.
  You will see four fields displaying Soil Moisture value, Water Pump value, and two
@@ -14,4 +13,4 @@ channel, you can see soil moisture value is decreased to less than 40%, Water pu
 value will increased to 1, the pump status will display green color and you can see that
 the water pump connected with the devices make the water flow through its pipe.
  That is the complete working of this project, the detecƟon of soil moisture present in
-soil and automaƟc irrigaƟon.
+soil and automatic irrigation.
