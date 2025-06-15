@@ -85,3 +85,4 @@ achieved.
 We can monitor the data online from any part of the world using ThingSpeak Server. To do that,
 go to the private view of the ThingSpeak server. You can check the soil Moisture, Humidity, and
 Temperature as well as relay status. 
+__________________________________________________________________________________________________________________________
