@@ -1,12 +1,12 @@
-Project Code (Running):
+
  You have to upload this code to Nde MCU , you copy and paste this code in Arduino IDE
 and select your port and MCU board, aŌer that click on upload.
 #include <ESP8266WiFi.h>
 #include <ThingSpeak.h>
-const char* ssid = "erric";
-const char* password = "qwertyui";
-unsigned long channelNumber = 2853104;
-const char* writeAPIKey = "G7W6ORYJLQVXXX7A";
+const char* ssid = "wifi-username";
+const char* password = "wifi-password";
+unsigned long channelNumber = channel-no;
+const char* writeAPIKey = "write-API-key";
 WiFiClient client;
 const int moisturePin = A0;
 const int relayPin = D1; // Controls the pump
