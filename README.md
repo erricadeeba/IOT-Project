@@ -8,11 +8,11 @@ Hence the method is making agriculture smart using automation and IoT technologi
 of Things (IoT) enables various applicaƟons of crop growth monitoring and selecƟon, automatic
 irrigaƟon decision support, etc. We proposed ESP8266 IoT AutomaƟc irrigaƟon system to
 modernize and improve the productivity of the crop.
-This presentaƟon explains how to make IoT Smart Agriculture with AutomaƟc Irrigation System
+This presentaƟon explains how to make IoT Smart Agriculture with Automatic Irrigation System
 using some simple sensors that are available in the market. We will use CapaciƟve Soil Moisture
 Sensor to measure moisture coontent present in the soil. Similarly to measure Air Temperature
 and Humidity, we prefer DHT11 Humidity Temperature Sensor. Using a 5V Power relay we will
-control the Water Pump. Whenever the sensor detects a low quanƟty of moisture in the soil,
+control the Water Pump. Whenever the sensor detects a low quantity of moisture in the soil,
 the motor turns on automatically. Hence, will automatically irrigate the field. Once the soil
 becomes wet, the motor turns off. We can monitor all this happening remotely via Thingspeak
 Server online from any part of the world.
