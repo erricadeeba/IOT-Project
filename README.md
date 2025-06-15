@@ -1,4 +1,4 @@
-# IOT-Based smart irrigation system
+LP# IOT-Based smart irrigation system
 Overview: IoT Based Smart Agriculture & Automatic Irrigation System
 Agriculture plays a vital role in the development of agricultural countries. Some issues
 concerning agriculture have been always hindering the development of the country.
@@ -86,3 +86,5 @@ We can monitor the data online from any part of the world using ThingSpeak Serve
 go to the private view of the ThingSpeak server. You can check the soil Moisture, Humidity, and
 Temperature as well as relay status. 
 __________________________________________________________________________________________________________________________
+
+If you liked this repository don't forget to 👍🏻 it.
