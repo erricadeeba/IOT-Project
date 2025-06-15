@@ -87,4 +87,4 @@ go to the private view of the ThingSpeak server. You can check the soil Moisture
 Temperature as well as relay status. 
 __________________________________________________________________________________________________________________________
 
-If you liked this repository don't forget to 👍🏻 it.
+If you liked this repository don't forget to give a ⭐.
