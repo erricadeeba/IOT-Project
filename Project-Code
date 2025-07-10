@@ -1,6 +1,6 @@
 
- You have to upload this code to Nde MCU , you copy and paste this code in Arduino IDE
-and select your port and MCU board, aŌer that click on upload.
+ You have to upload this code to Nde MCU, copy and paste this code in Arduino IDE
+and select your port and MCU board, after that click on upload.
 #include <ESP8266WiFi.h>
 #include <ThingSpeak.h>
 const char* ssid = "wifi-username";
